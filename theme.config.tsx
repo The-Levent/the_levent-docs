@@ -4,14 +4,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>My Project</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/The-Levent/thelevent.com',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://thelevent.com/contact-us',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/The-Levent/the_levent-docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'The Docs',
   },
 }
 
